@@ -1,0 +1,14 @@
+C:\Users\frivero\source\repos\Tienda_Electrodomesticos\Tienda_Electrodomesticos\obj\Debug\net8.0\Tienda_Electrodomesticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frivero\source\repos\Tienda_Electrodomesticos\Tienda_Electrodomesticos\obj\Debug\net8.0\Tienda_Electrodomesticos.AssemblyInfoInputs.cache
+C:\Users\frivero\source\repos\Tienda_Electrodomesticos\Tienda_Electrodomesticos\obj\Debug\net8.0\Tienda_Electrodomesticos.AssemblyInfo.cs
+C:\Users\frivero\source\repos\Tienda_Electrodomesticos\Tienda_Electrodomesticos\obj\Debug\net8.0\Tienda_Electrodomesticos.csproj.CoreCompileInputs.cache
+C:\Users\frivero\source\repos\Tienda_Electrodomesticos\Tienda_Electrodomesticos\bin\Debug\net8.0\Tienda_Electrodomesticos.exe
+C:\Users\frivero\source\repos\Tienda_Electrodomesticos\Tienda_Electrodomesticos\bin\Debug\net8.0\Tienda_Electrodomesticos.deps.json
+C:\Users\frivero\source\repos\Tienda_Electrodomesticos\Tienda_Electrodomesticos\bin\Debug\net8.0\Tienda_Electrodomesticos.runtimeconfig.json
+C:\Users\frivero\source\repos\Tienda_Electrodomesticos\Tienda_Electrodomesticos\bin\Debug\net8.0\Tienda_Electrodomesticos.dll
+C:\Users\frivero\source\repos\Tienda_Electrodomesticos\Tienda_Electrodomesticos\bin\Debug\net8.0\Tienda_Electrodomesticos.pdb
+C:\Users\frivero\source\repos\Tienda_Electrodomesticos\Tienda_Electrodomesticos\obj\Debug\net8.0\Tienda_Electrodomesticos.dll
+C:\Users\frivero\source\repos\Tienda_Electrodomesticos\Tienda_Electrodomesticos\obj\Debug\net8.0\refint\Tienda_Electrodomesticos.dll
+C:\Users\frivero\source\repos\Tienda_Electrodomesticos\Tienda_Electrodomesticos\obj\Debug\net8.0\Tienda_Electrodomesticos.pdb
+C:\Users\frivero\source\repos\Tienda_Electrodomesticos\Tienda_Electrodomesticos\obj\Debug\net8.0\Tienda_Electrodomesticos.genruntimeconfig.cache
+C:\Users\frivero\source\repos\Tienda_Electrodomesticos\Tienda_Electrodomesticos\obj\Debug\net8.0\ref\Tienda_Electrodomesticos.dll
